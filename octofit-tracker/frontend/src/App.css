@@ -1,0 +1,17 @@
+.App {
+  min-height: 100vh;
+  background-color: #f5f7fb;
+}
+
+.app-main {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.app-card {
+  margin-bottom: 2rem;
+}
+
+.app-card h2 {
+  margin-bottom: 0;
+}
